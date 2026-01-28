@@ -1,2 +1,2 @@
 # PYTHON-VYZVY
-Moje Python výzvy
+Programko Python výzvy
