@@ -4,5 +4,6 @@ text = input("Zadaj text: ")
 prve_tri = text[:3]
 posledne_tri = text[-3:]
 
-print(f"Prve 3 znaky: {prve_tri}")
-print(f"Posledne 3 znaky: {posledne_tri}")
+print("Prve 3 znaky: ", prve_tri)
+print("Posledne 3 znaky: ", posledne_tri)
+
